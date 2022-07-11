@@ -1,0 +1,5 @@
+baseURL: http://isaacslab.net/
+languageCode: en-us
+title: Isaac's Lab
+theme: bilberry-hugo-theme
+enableRobotsTXT: true
