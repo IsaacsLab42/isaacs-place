@@ -1,5 +1,37 @@
+# -- Site Configuration --
+#
+# Refer to the Hugo documentation for generic Hugo settings.
+#
+# Refer to the theme docs for more details about each of the theme
+# specific settings.
+# https://jpanther.github.io/congo/docs/getting-started/
+
+# The URL to the root of the website.
 baseURL: http://isaacslab.net/
-languageCode: en-us
-title: Isaac's Lab
-theme: bilberry-hugo-theme
+
+# Languages
+languageCode: en
+defaultContentLanguage: en
+
+# SEO / Search engines
 enableRobotsTXT: true
+
+# The number of articles listed on each page of the article listing.
+paginate: 10
+
+# The number of words that are used to generate the article summary
+# when one is not provided in the front matter. A value of 0 will use
+#the first sentence. This value has no effect when summaries are hidden.
+summaryLength: 0
+
+# Outputs of the generator. Need all three types
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Configures how the links are generated for content.
+# See https://gohugo.io/content-management/urls/#permalinks
+permalinks:
+  posts: /:year/:month/:title/
