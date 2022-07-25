@@ -6,8 +6,10 @@
 # specific settings.
 # https://jpanther.github.io/congo/docs/getting-started/
 
+theme: congo
+
 # The URL to the root of the website.
-baseURL: http://isaacslab.net/
+baseURL: http://isaacs.place/
 
 # Languages
 languageCode: en
