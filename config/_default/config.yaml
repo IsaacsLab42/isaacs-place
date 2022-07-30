@@ -23,7 +23,7 @@ paginate: 10
 
 # The number of words that are used to generate the article summary
 # when one is not provided in the front matter. A value of 0 will use
-#the first sentence. This value has no effect when summaries are hidden.
+# the first sentence. This value has no effect when summaries are hidden.
 summaryLength: 0
 
 # Outputs of the generator. Need all three types

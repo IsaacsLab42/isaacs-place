@@ -1,8 +1,11 @@
 ---
-title: "Chunked and Whole File CRC-32 in Python"
+title: Chunked and Whole File CRC-32 in Python
 date: 2022-07-25T19:00:49-04:00
 draft: false
-description: "Calculate CRC32 over file in Python using chunks"
+description: Calculate CRC32 over file in Python using chunks
+summary: Calculate CRC32 over file in Python. This works over
+    whole or partial files, without reading the entire file into
+    memory.
 categories:
   - programming
 tags:

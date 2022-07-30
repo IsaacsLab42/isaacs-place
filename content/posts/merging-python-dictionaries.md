@@ -1,8 +1,8 @@
 ---
-title: "Merging Python Dictionaries"
+title: Merging Python Dictionaries
 date: 2022-07-25T18:13:58-04:00
 draft: false
-description: "Merge Dictionaries in Python"
+summary: Merge dictionaries in Python
 categories:
   - programming
 tags:

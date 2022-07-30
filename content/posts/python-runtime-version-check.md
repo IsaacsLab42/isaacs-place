@@ -1,7 +1,8 @@
 ---
-title: "Python Runtime Version Check"
+title: Python Runtime Version Check
 date: 2022-07-26T14:30:20-04:00
 draft: false
+summary: Check the Python version at runtime
 categories:
   - programming
 tags:

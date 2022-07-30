@@ -1,8 +1,9 @@
 ---
-title: "Change Directory Python Context Manager"
+title: Change Directory Python Context Manager
 date: 2022-07-30T17:06:42-04:00
 draft: false
-description: "Create a context manager in Python that changes working directory"
+description: Create a context manager in Python that changes working directory
+summary: Create a context manager in Python that changes working directory
 categories:
   - programming
 tags:

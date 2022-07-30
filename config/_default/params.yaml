@@ -56,7 +56,7 @@ article:
 
 list:
   showBreadcrumbs: false
-  showSummary: false
+  showSummary: true
   showTableOfContents: false
   groupByYear: true
 
