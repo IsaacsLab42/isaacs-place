@@ -12,8 +12,8 @@ tags:
   - sarcasm
 ---
 In my role in a small company I wear many hats. Primarily I am technical and
-do software engineering. I also play benefits manager, general HR, business
-development, and as the title might suggest, recruiter.
+do software engineering. I also play benefits manager, general HR, assist in
+business development, and as the title might suggest, recruiter.
 
 Since I am technical I receive a lot of recruitment emails, texts, and
 phone calls. With all of the messages that I receive I have put together a 
@@ -25,7 +25,7 @@ off. I preset this, by way of sarcasm, as a to-do guide.
 ## Do Not Read The Resume
 There are some vaguely technical keywords in there, which is obviously what
 your search triggered on. Why waste time reading the resume? The candidate
-can read your job description and see if it applies to themselves, so you
+can read your job description and see if it applies to themselves so that you
 don't have to. Your time is way more valuable and you shouldn't be
 bothered with words anyway. Aren't you late for your golf game?
 
