@@ -1,6 +1,6 @@
 ---
 title: The Technical Recruiters Guide to Alienating People
-date: 2022-07-31T17:41:50-04:00
+date: 2022-08-01T18:15:00-04:00
 draft: false
 description:
 summary: How to not win recruits and influence people

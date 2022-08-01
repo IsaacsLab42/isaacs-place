@@ -1,7 +1,3 @@
-# go modules
-# imports:
-#   path: github.com/jpanther/congo/v2  # congo theme
-
 hugoVersion:
   extended: false
   min: 0.87.0
