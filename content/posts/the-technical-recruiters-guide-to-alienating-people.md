@@ -37,6 +37,18 @@ their life has become stagnant with all of those "benefits." Offer them an
 hourly 1099 contract job with a rate that would make fast food workers laugh.
 For 6-12 months. In another state.
 
+## Pay Rate Is Just a Number
+What in the world does being a senior developer with 20 years experience matter?
+You need a test technician yesterday. Clearly they have the skills, so they will thank
+you for offering them a job that is well beneath their skill and pay level.
+
+## Old Resumes Are Like Fine Aged Milk
+Just like milk becomes better with age, so does a resume. Go ahead and mine the
+archives of the internet. Any resume you find there is fair game! Found one that
+is 15 years old! Excellent! That means that they must not have much experience
+and you can offer them a low paying job. If they really cared they would have
+sent you an updated resume.
+
 ## Use The Canned Linkedin Connection Message
 You are very busy! Take care of yourself. There is a reason that LinkedIn offers
 canned messages, so just go ahead and use them. Make sure to randomly connect
