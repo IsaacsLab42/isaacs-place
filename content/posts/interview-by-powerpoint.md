@@ -1,5 +1,5 @@
 ---
-title: Python Runtime Version Check
+title: Interview by Powerpoint
 date: 2023-06-22T15:30:20-04:00
 draft: false
 summary: Interview by Powerpoint and Other Misguided Practices
